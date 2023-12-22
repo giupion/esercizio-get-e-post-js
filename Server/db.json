@@ -1,0 +1,90 @@
+{
+  "users": [
+    {
+      "email": "mudef@example.com",
+      "password": "$2a$10$B7vibEv6El8Aqbq1i0KjWePJGrdDJ8lB07RdqVVz/GbU469YEUbF.",
+      "firstname": "Darryl",
+      "lastname": "Wilkins",
+      "city": "Albuquerque",
+      "id": 1
+    },
+    {
+      "email": "jubidavoqu@example.com",
+      "password": "$2a$10$0oGLNJ.qbVvhEhK4E12EsOannWSmKbjakeh48pGpD305kv.IPUb1K",
+      "firstname": "Melissa",
+      "lastname": "Ramirez",
+      "city": "Louisville",
+      "id": 2
+    },
+    {
+      "email": "muqypese@example.com",
+      "password": "$2a$10$aPNAqAapT3Pmyq.S/3vKmeAPYHCcZWyyCGG.Mqnzudi4siEsUi3xa",
+      "firstname": "Miriam",
+      "lastname": "Rollins",
+      "city": "Atlanta",
+      "id": 3
+    },
+    {
+      "email": "zyfifosu@example.com",
+      "password": "$2a$10$ZjEMJgQzYnsE31tkA.7I0ukzu1KrwQ/fWZ48zhYuyBEDQIso4ytcC",
+      "firstname": "Sasha",
+      "lastname": "Woods",
+      "city": "New York",
+      "id": 4
+    },
+    {
+      "email": "ramirez@gmail.com",
+      "password": "$2a$10$PdgAyDqXKqzpZD5UYuYwGObF/fVlPJe.Sb8V2CG2rs5hFk85nXU9y",
+      "firstname": "Lisa",
+      "lastname": "Ramirez",
+      "city": "Modena",
+      "id": 5
+    },
+    {
+      "email": "fionar@gmail.it",
+      "password": "$2a$10$S0FkDmmRAeTJNqD2.kcLUeXr1A4rkPOdWg3oY4VVnDoXOmk/pegHW",
+      "firstname": "giuseppe",
+      "lastname": "drant",
+      "city": "modena",
+      "id": 6
+    }
+  ],
+  "products": [
+    {
+      "marca": "ttt",
+      "modello": "yyy",
+      "categoria": "uuu",
+      "prezzo": "666",
+      "quantita": "77",
+      "immagine": "iii",
+      "id": 1
+    },
+    {
+      "marca": "",
+      "modello": "",
+      "categoria": "",
+      "prezzo": "",
+      "quantita": "",
+      "immagine": "",
+      "id": 2
+    },
+    {
+      "marca": "nokia",
+      "modello": "3310",
+      "categoria": "telefono",
+      "prezzo": "1",
+      "quantita": "1",
+      "immagine": "1",
+      "id": 3
+    },
+    {
+      "marca": "1",
+      "modello": "1",
+      "categoria": "1",
+      "prezzo": "1",
+      "quantita": "1",
+      "immagine": "1",
+      "id": 4
+    }
+  ]
+}
